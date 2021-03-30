@@ -93,11 +93,12 @@
         "showList": false
       },
       {
-        "name”: “isMarginal”,
+        "name": "isMarginal",
         "label": "маржинальное кредитование",
         "value": "true",
         "showBar": false,
         "showList": false
+      },
       {
         "name": "TradesPerWeek",
         "label": "Среднее количество сделок за неделю",

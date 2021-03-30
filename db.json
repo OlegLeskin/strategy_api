@@ -22,94 +22,6 @@
           "stockExchangeName": "СПБ",
           "type": "Акции",
           "classCode": "SPBXM"
-        },
-        {
-          "ticker": "AKAM",
-          "isin": "US00971T1016",
-          "name": "Akamai Technologies, Inc.",
-          "stockExchangeName": "СПБ",
-          "type": "Акции",
-          "classCode": "SPBXM"
-        },
-        {
-          "ticker": "BAH",
-          "isin": "US0995021062",
-          "name": "Booz Allen Hamilton Holding Corporation ClassA",
-          "stockExchangeName": "СПБ",
-          "type": "Акции",
-          "classCode": "SPBXM"
-        },
-        {
-          "ticker": "DLR",
-          "isin": "US2538681030",
-          "name": "DIGITAL REALTY",
-          "stockExchangeName": "СПБ",
-          "type": "Акции",
-          "classCode": "SPBXM"
-        },
-        {
-          "ticker": "NEE",
-          "isin": "US65339F1012",
-          "name": "NextEra Energy, Inc.",
-          "stockExchangeName": "СПБ",
-          "type": "Акции",
-          "classCode": "SPBXM"
-        },
-        {
-          "ticker": "ADSK",
-          "isin": "US0527691069",
-          "name": "AUTODESK INC",
-          "stockExchangeName": "СПБ",
-          "type": "Акции",
-          "classCode": "SPBXM"
-        },
-        {
-          "ticker": "LLY",
-          "isin": "US5324571083",
-          "name": "Eli Lilly and Company",
-          "stockExchangeName": "СПБ",
-          "type": "Акции",
-          "classCode": "SPBXM"
-        },
-        {
-          "ticker": "HOLX",
-          "isin": "US4364401012",
-          "name": "Hologic, Inc.",
-          "stockExchangeName": "СПБ",
-          "type": "Акции",
-          "classCode": "SPBXM"
-        },
-        {
-          "ticker": "TER",
-          "isin": "US8807701029",
-          "name": "Teradyne, Inc.",
-          "stockExchangeName": "СПБ",
-          "type": "Акции",
-          "classCode": "SPBXM"
-        },
-        {
-          "ticker": "TMO",
-          "isin": "US8835561023",
-          "name": "Thermo Fisher Scientific Inc.",
-          "stockExchangeName": "СПБ",
-          "type": "Акции",
-          "classCode": "SPBXM"
-        },
-        {
-          "ticker": "SCCO",
-          "isin": "US84265V1052",
-          "name": "Southern Copper Corporation",
-          "stockExchangeName": "СПБ",
-          "type": "Акции",
-          "classCode": "SPBXM"
-        },
-        {
-          "ticker": "JPM",
-          "isin": "US46625H1005",
-          "name": "JPMorgan Chase & Co.",
-          "stockExchangeName": "СПБ",
-          "type": "Акции",
-          "classCode": "SPBXM"
         }
       ],
       "profitability": {
@@ -153,14 +65,6 @@
         {
           "topic": "Инвестиции &mdash; не спекуляции",
           "description": "В портфель Максим Шеин отбирает только крупные компании с понятным бизнесом, в который автор верит сам. Стратегия базируется на глубоком фундаментальном анализе: начиная с идеи продукта и заканчивая глобальными планами развития компании. Главный принцип&nbsp;&mdash; вы покупаете долю в бизнесе, проверенном временем и людьми."
-        },
-        {
-          "topic": "Прозрачные принципы управления",
-          "description": "Стратегия отдает предпочтение компаниям, у которых есть значительные перспективы расширения бизнеса, высокая рентабельность, а также потенциал роста бумаг. Именно поэтому автор инвестирует в американский рынок, самый крупный рынок мира, богатый на стабильных игроков средней и крупной капитализации. Главное убеждение — среднесрочные вложения наиболее эффективны и приносят хороший доход. На такие инвестиции приходится 70-80% портфеля."
-        },
-        {
-          "topic": "Жесткий контроль рисков",
-          "description": "Автор стратегии всегда в курсе общемировых трендов и событий, что дает возможность воспользоваться ситуацией на рынке и инвестировать по выгодной цене либо отменить покупку, если вокруг компании образовался негативный фон. Доля отдельного эмитента в портфеле не превышает 15%, а рыночная капитализация составляет не менее $1 млрд. В портфеле представлено не более 30% эмитентов одной отрасли. Не используются маржинальное кредитование («плечи»). Также успехом пользуется приобретение так называемых защитных компаний, то есть компаний с низкой бетой (характеристика бумаги, которая покажет, как она будет вести себя относительно рынка)."
         }
       ],
       "videoAbout": "https://www.youtube.com/embed/vaT3EjVlVhk",
@@ -177,34 +81,6 @@
           "isin": "IE00BLP1HW54",
           "realizedPL": 0.0191574283,
           "name": "Aon plc"
-        },
-        {
-          "date": "2021-03-29T18:38:27.2000000",
-          "ticker": "CHD",
-          "isin": "US1713401024",
-          "realizedPL": 0.0195450913,
-          "name": "Church & Dwight Co., Inc."
-        },
-        {
-          "date": "2021-03-26T20:25:44.8370000",
-          "ticker": "EW",
-          "isin": "US28176E1082",
-          "realizedPL": 0.0131611619,
-          "name": "Edwards Lifesciences Corporation"
-        },
-        {
-          "date": "2021-03-26T20:18:59.5400000",
-          "ticker": "VMC",
-          "isin": "US9291601097",
-          "realizedPL": 0.00509116752,
-          "name": "Vulcan Materials Company"
-        },
-        {
-          "date": "2021-03-26T17:15:49.5670000",
-          "ticker": "CB",
-          "isin": "CH0044328745",
-          "realizedPL": 0.016057834,
-          "name": "Chubb Limited"
         }
       ]
     },

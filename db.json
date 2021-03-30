@@ -86,6 +86,19 @@
     },
     "additionalParams": [
       {
+        "name": "imageUrl",
+        "label": "Ссылка на изображение",
+        "value": "https://openapi.fintarget.ru/images/strat/d42a372a-4973-41eb-b2a8-4b072e30d004.jpg",
+        "showBar": false,
+        "showList": false
+      },
+      {
+        "name”: “isMarginal”,
+        "label": "маржинальное кредитование",
+        "value": "true",
+        "showBar": false,
+        "showList": false
+      {
         "name": "TradesPerWeek",
         "label": "Среднее количество сделок за неделю",
         "value": "3.12",

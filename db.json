@@ -1,6 +1,5 @@
 {
   "strategy": {
-   {
     "id": 535,
     "externalId": "d42a372a-4973-41eb-b2a8-4b072e30d974",
     "type": 18,
@@ -92,6 +91,5 @@
             "showList": true
         }
     ]
-}
   }
 }
